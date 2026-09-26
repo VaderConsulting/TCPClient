@@ -2,7 +2,7 @@
 
 VB6 Logon Client (`Logon Client.exe`) that gathers workstation logon info (WMI/WSH: user, host, MAC, OS, disk, memory) and talks to a logon server over the MS Winsock OCX to receive drive/printer mapping steps. Pair with sibling `TCPServer`. Open `Logon Client.Vbp` in the VB6 IDE.
 
-**Source last updated:** 2026-08-27 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
+**Source last updated:** 2003-01-01 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
 ## Solution structure
 
